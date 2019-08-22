@@ -1,0 +1,18 @@
+print("What is your name?")
+name=input()
+print("your name is ",name)
+print("What is your age",name)
+age=int(input())
+print("your age is: ",age+1)
+
+
+print("What is your name?")
+name=input()
+print("your name is ",name)
+print("What is your age,", name,"so I would know how to beheave")
+age=int(input())
+print("your age is", age,"incredible")
+print("tell me how many years you want me to add?")
+years=int(input())
+print("you will be",name,age+years,"in years")
+print("if you are crazy a lot")
